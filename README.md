@@ -1,4 +1,4 @@
 # Tutedude_Assignments
 
 
-This Repository Contains The assignments from Tutedude
+This Repository Contains The assignments solutions from Tutedude
